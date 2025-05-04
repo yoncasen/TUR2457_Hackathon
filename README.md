@@ -2,4 +2,4 @@
 
 ## Projemin fikri: 
 
-burası ne yapar?
+Atık ayrıştırma yapabilen bir web sitesi 
